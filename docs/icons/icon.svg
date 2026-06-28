@@ -1,0 +1,51 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16263a"/>
+      <stop offset="1" stop-color="#0a0f17"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.40" r="0.6">
+      <stop offset="0" stop-color="#2f80ed" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#2f80ed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#56cc7a"/>
+      <stop offset="1" stop-color="#2f80ed"/>
+    </linearGradient>
+    <linearGradient id="mast" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#9fb0c0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect width="512" height="512" fill="url(#glow)"/>
+
+  <!-- radiating signal arcs, centered on the transmitter tip (256,170) -->
+  <g fill="none" stroke="url(#wave)" stroke-linecap="round">
+    <path d="M 198 118 A 74 74 0 0 0 198 222" stroke-width="13" opacity="0.4"/>
+    <path d="M 314 118 A 74 74 0 0 1 314 222" stroke-width="13" opacity="0.4"/>
+    <path d="M 220 134 A 46 46 0 0 0 220 206" stroke-width="13" opacity="0.85"/>
+    <path d="M 292 134 A 46 46 0 0 1 292 206" stroke-width="13" opacity="0.85"/>
+  </g>
+
+  <!-- transmitter tip -->
+  <circle cx="256" cy="170" r="15" fill="url(#wave)"/>
+
+  <!-- lattice tower -->
+  <g stroke="url(#mast)" fill="none" stroke-linecap="round">
+    <line x1="256" y1="185" x2="256" y2="200" stroke-width="11"/>
+    <line x1="214" y1="392" x2="256" y2="198" stroke-width="11"/>
+    <line x1="298" y1="392" x2="256" y2="198" stroke-width="11"/>
+    <!-- lattice cross-braces -->
+    <g stroke-width="6" opacity="0.75">
+      <path d="M240 270 L281 312 M272 270 L231 312 M231 312 L290 354 M281 312 L222 354"/>
+    </g>
+    <g stroke-width="7">
+      <line x1="240" y1="270" x2="272" y2="270"/>
+      <line x1="231" y1="312" x2="281" y2="312"/>
+      <line x1="222" y1="354" x2="290" y2="354"/>
+    </g>
+    <line x1="206" y1="392" x2="306" y2="392" stroke-width="11"/>
+  </g>
+</svg>

@@ -1,0 +1,785 @@
+‚i‚b‚fƒŠƒXƒg               2018.10.01Œ»İ  Œ»‘¶379ŒS Á–Å243ŒS
+  No.     ŒS–¼(Û°Ïš)       ŒS–¼(Š¿š)  Á–Å“ú
+ 
+–kŠC“¹  01
+  01001   Akan                ˆ¢Š¦
+  01002   Ashoro              ‘«Šñ
+  01003   Akkeshi             ŒúŠİ
+* 01004   Atsuta              Œú“c       "Sep.30,2005"
+  01005   Abashiri            –Ô‘–
+          Ozoracho            ‘å‹ó’¬
+          Bihorochou          ”ü–y’¬
+          Tubetuchou          ’Ã•Ê’¬
+  01006   Abuta(Shiribeshi)   ˆ¸“c(Œãu)
+          Kimobetsucho        Šì–Î•Ê’¬
+          Kutchancho          ‹ä’mˆÀ’¬
+          Kyogokucho          ‹‹É’¬
+          Makkarimura         ^ë‘º
+          Nisekocho           ƒjƒZƒR’¬
+          Rusutsumura         —¯õ“s‘º
+  01007   Abuta(Iburi)        ˆ¸“c(’_U)
+          Toyouracho          –L‰Y’¬
+          Touyakocho          “´–êŒÎ’¬
+  01008   Ishikari            Îë
+  01009   Isoya               ˆé’J
+  01010   Iwanai              Šâ“à
+  01011   Usu                 —Lì
+* 01012   Utasutsu            ‰ÌŠü      "Jan.14,1955"
+  01013   Urakawa             ‰Y‰Í
+  01014   Uryu(Sorachi)       ‰J—³(‹ó’mj
+          Moseushicho         –…”w‹’¬
+          Chippubetsucho      ’•ƒ•Ê’¬ 
+          Uryucho             ‰J—³’¬
+          Hokuryucho          –k—³’¬
+          Numatacho           À“c’¬
+  01015   Esashi              }K
+  01016   Okushiri            ‰œK
+* 01017   Oshoro              ”E˜H      "Mar.31,1958"
+  01018   Kasai               ‰Í¼
+  01019   Kato                ‰Í“Œ
+  01020   Kabato              Š’ŒË
+  01021   Kamiiso             ãˆé
+  01022   Kamikawa(Tokachi)   ãì(\Ÿ)
+          Shimizucho          ´…’¬
+          Shintokucho         V“¾’¬
+  01023   Kamikawa(Kamikawa)  ãì(ãì)
+          Aibetsucho          ˆ¤•Ê’¬
+          Asahicho            ’©“ú’¬
+          Bieicho             ”ü‰l’¬
+          Higashikaguracho    “Œ_Šy’¬
+          Higashikawacho      “Œì’¬
+          Pippucho            ”ä•z’¬
+          Kamikawacho         ãì’¬
+          Kenbuchicho         Œ••£’¬
+          Shimokawacho        ‰ºì’¬
+          Takasucho           ‘é²’¬
+          Tomacho             “––ƒ’¬
+          Wassamucho          ˜aŠ¦’¬
+  01024   Kameda              ‹T“c
+  01025   Kayabe              Š•”
+  01026   Kawakami            ìã
+  01027   Kushiro             ‹ú˜H
+  01028   Kudo                ‹v‰“
+* 01029   Sapporo             D–y      "Aug.31,1996"
+  01030   Samani              —l—
+  01031   Saru                ¹—¬
+* 01032   Shizunai            Ã“à      "Mar.30,2006"
+  01033   Shibetsu            •W’Ã
+  01034   Shimamaki           “‡–q
+  01035   Shakotan            Ï’O
+  01036   Shari               Î—¢
+  01037   Shiraoi             ”’˜V
+  01038   Shiranuka           ”’f
+  01039   Suttsu              õ“s
+  01040   Setana              £’I
+  01041   Soya                @’J
+  01042   Sorachi(Sorachi)    ‹ó’m(‹ó’m)
+          Kamisunagawacho     ã»ì’¬
+          Naiecho             “Şˆä]’¬
+          Nanporocho          “ì–y’¬
+  01043   Sorachi(Kamikawa)   ‹ó’m(ãì)
+          Kamifuranocho       ã•x—Ç–ì’¬
+          Minamifuranocho     “ì•x—Ç–ì’¬
+          Nakafuranocho       ’†•x—Ç–ì’¬
+* 01044   Chitose             çÎ      "Oct.31,1970"
+  01045   Teshio(Rumoi)       “V‰–(—¯–G)
+          Enbetsucho          ‰“•Ê’¬
+          Teshiocho           “V‰–’¬
+  01046   Teshio(Soya)        “V‰–(@’J)
+          Toyotomicho         –L•x’¬
+          Horonobecho         –y‰„’¬
+  01047   Tokachi             \Ÿ
+  01048   Tokoro              í˜C
+  01049   Tomamae             “Ï‘O
+  01050   Nakagawa(Kamikawa)  ’†ì(ãì)
+          Bifukacho           ”ü[’¬
+          Nakagawacho         ’†ì’¬
+          Otoinetsupumura     ‰¹ˆĞq•{‘º
+  01051   Nakagawa(Tokachi)   ’†ì(\Ÿ)
+          Honbetsucho         –{•Ê’¬
+          Ikedacho            ’r“c’¬
+          Makubetsucho        –‹•Ê’¬
+          Toyokorocho         –L ’¬
+  01052   Niikappu            VŠ¥
+  01053   Nishi               ¢u
+* 01054   Nemuro              ªº      "Jul.31,1957"
+  01055   Notsuke             –ì•t
+* 01056   Hanasaki            ‰Ôç      "Mar.31,1959"
+* 01057   Hamamasu            •l‰v      "Sep.30,2005"
+* 01058   Bikuni              ”ü‘      "Sep.29,1956"
+  01059   Hiyama              wR
+  01060   Hiroo               L”ö
+* 01061   Futoro              ‘¾˜E      "Mar.31,1955"
+  01062   Furuu               ŒÃ‰F
+  01063   Furubira            ŒÃ•½
+  01064   Horoizumi           –yò
+* 01065   Horobetsu           –y•Ê      "Jul.31,1970"
+  01066   Mashike             ‘–Ñ
+  01067   Matsumae            ¼‘O
+* 01068   Mitsuishi           OÎ      "Mar.30,2006"
+  01069   Menashi             –Ú—œ
+  01070   Monbetsu            –ä•Ê
+  01071   Yamakoshi           R‰z
+  01072   Yubari              —[’£
+  01073   Yufutsu(Iburi)      —E•¥(’_U)
+          Atsumacho           Œú^’¬
+          Abiracho            ˆÀ•½’¬
+          Mukawacho           ‚Ş‚©‚í’¬
+  01074   Yufutsu(Kamikawa)   —E•¥(ãì)
+          Shimukappumura      èŠ¥‘º
+  01075   Yoichi              —]s
+  01076   Rishiri             —˜K
+  01077   Rumoi               —¯–G
+  01078   Rebun               —ç•¶
+  01079   Futami              “ñŠC
+  01080   Hidaka              “ú‚
+  01081   Uryu(Kamikawa)      ‰J—³(ãìj
+@@@@@Horokanaicho@@@@–y‰Á“à’¬
+Â  X  02
+  02001   Kamikita            ã–k
+  02002   Kitatsugaru         –k’ÃŒy
+  02003   Sannohe             OŒË
+  02004   Shimokita           ‰º–k
+  02005   Nakatsugaru         ’†’ÃŒy
+  02006   Nishitsugaru        ¼’ÃŒy
+  02007   Higashitsugaru      “Œ’ÃŒy
+  02008   Minamitsugaru       “ì’ÃŒy
+
+Šâ  è  03
+  03001   Isawa               ’_‘ò
+  03002   Iwate               Šâè
+* 03003   Esashi              ]h      "Nov.2,1958"
+  03004   Kamihei             ã•ÂˆÉ
+  03005   Kunohe              ‹ãŒË
+  03006   Kesen               ‹Cå
+  03007   Shimohei            ‰º•ÂˆÉ
+  03008   Shiwa               ‡”g
+  03009   Nishiiwai           ¼”Öˆä
+  03010   Ninohe              “ñŒË
+* 03011   Hienuki             •BŠÑ      "Dec.31,2005"
+* 03012   Higashiiwai         “Œ”Öˆä    "Sep.25,2011"
+  03013   Waga                ˜a‰ê
+
+H  “c  04
+  04001   Ogachi              —YŸ
+  04002   Kazuno              ­Šp
+* 04003   Kawabe              ‰Í•Ó      "Jan.10,2005"
+  04004   Kitaakita           –kH“c
+  04005   Semboku             å–k
+* 04006   Hiraka              •½­      "Sep.30,2005"
+  04007   Minamiakita         “ìH“c
+  04008   Yamamoto            R–{
+* 04009   Yuri                —R—˜      "Sep.30,2005"
+
+R  Œ`  05
+  05001   Akumi               –OŠC
+  05002   Kitamurayama        –k‘ºR
+  05003   Nishiokitama        ¼’u’
+* 05004   Nishitagawa         ¼“cì    "Sep.30,2005"
+  05005   Nishimurayama       ¼‘ºR
+  05006   Higashiokitama      “Œ’u’
+  05007   Higashitagawa       “Œ“cì
+  05008   Higashimurayama     “Œ‘ºR
+* 05009   Minamiokitama       “ì’u’    "Mar.31,1958"
+* 05010   Minamimurayama      “ì‘ºR    "Mar.20,1957"
+  05011   Mogami              Åã
+
+‹{  é  06
+  06001   Igu                 ˆÉ‹ï
+  06002   Oshika              ‰²­
+  06003   Katta               Š “c
+  06004   Kami                ‰Á”ü
+* 06005   Kurihara            ŒIŒ´      "Mar.31,2005"
+  06006   Kurokawa            •ì
+* 06007   Shida               u“c      "Mar.30,2006"
+  06008   Shibata             Ä“c
+* 06009   Tamatsukuri         ‹Ê‘¢      "Mar.30,2006"
+  06010   Toda                ‰““c
+* 06011   Tome                “o•Ä      "Mar.31,2005"
+* 06012   Natori              –¼æ      "Feb.29,1988"
+  06013   Miyagi              ‹{é
+  06014   Motoyoshi           –{‹g
+* 06015   Monou               “¶      "Mar.31,2005"
+  06016   Watari              ˜j—
+
+•Ÿ  “‡  07
+* 07001   Asaka               ˆÀÏ      "Apr.30,1965"
+  07002   Adachi              ˆÀ’B
+  07003   Ishikawa            Îì
+* 07004   Iwaki              Îé      "Sep.30,1966"
+  07005   Iwase               Šâ£
+  07006   Onuma               ‘åÀ
+  07007   Kawanuma            ‰ÍÀ
+* 07008   Kitaaizu            –k‰ï’Ã    "Oct.31,2004"
+* 07009   Shinobu             M•v      "Sep.30,1968"
+  07010   Soma                ‘Š”n
+  07011   Date                ˆÉ’B
+  07012   Tamura              “c‘º
+  07013   Nishishirakawa      ¼”’‰Í
+  07014   Higashishirakawa    “Œ”’ì
+  07015   Futaba              ‘o—t
+  07016   Minamiaizu          “ì‰ï’Ã
+  07017   Yama                –ë–ƒ
+
+V  Šƒ  08
+  08001   Iwafune             Šâ‘D
+  08002   Kariwa              Š ‰H
+* 08003   Kitauonuma          –k‹›À    "Mar.30,2010"
+  08004   Kitakanbara         –kŠ—Œ´
+* 08005   Koshi               ŒÃu      "Mar.31,2005"
+* 08006   Sado                ²“n      "Feb.29,2004"
+  08007   Santo               O“‡
+  08008   Nakauonuma          ’†‹›À
+* 08009   Nakakanbara         ’†Š—Œ´    "Dec.31,2005
+* 08010   Nakakubiki          ’†èòé    "Mar.31,2005"
+  08011   Nishikanbara        ¼Š—Œ´
+* 08012   Nishikubiki         ¼èòé    "Mar.18,2005"
+  08013   Higashikanbara      “ŒŠ—Œ´
+* 08014   Higashikubiki       “Œèòé    "Mar.31,2005"
+  08015   Minamiuonuma        “ì‹›À
+  08016   Minamikanbara       “ìŠ—Œ´
+
+’·  –ì  09
+  09001   Kamiina             ãˆÉ“ß
+  09002   Kamitakai           ã‚ˆä
+  09003   Kamiminochi         ã…“à
+  09004   Kiso                –Ø‘]
+  09005   Kitaazumi           –kˆÀ“Ü
+  09006   Kitasaku            –k²‹v
+* 09007   Sarashina           X‹‰      "Dec.31,2004"
+  09008   Shimoina            ‰ºˆÉ“ß
+  09009   Shimotakai          ‰º‚ˆä
+  09010   Shimominochi        ‰º…“à
+  09011   Suwa                z–K
+  09012   Chiisagata          ¬Œ§
+* 09013   (Reserved)          (Œ‡”Ôj
+  09014   Hanishina           û‰È
+  09015   Higashichikuma      “Œ’}–€
+* 09016   Minamiazumi         “ìˆÀ“Ü    "Sep.30,2005"
+  09017   Minamisaku          “ì²‹v
+
+“Œ  ‹  10
+* 10001   Kitatama            –k‘½–€    "Nov.2,1970"
+  10002   Nishitama           ¼‘½–€
+* 10003   Minamitama          “ì‘½–€    "Oct.31,1971"
+  10004   Oshima-Shicho       ‘å“‡x’¡
+          @Oshimamachi         ‘å“‡’¬
+          @Toshimamura         —˜“‡‘º
+          @Niijimamura         V“‡‘º
+          @Kozushimamura       _’Ã“‡‘º
+  10005   Miyake-Shicho       O‘îx’¡
+          @Miyakemura          O‘î‘º
+          @Mikurajimamura      Œä‘ “‡‘º
+  10006   Hachijo-Shicho      ”ªäx’¡
+          @Hachijomachi        ”ªä’¬
+          @@Torishima         ’¹“‡
+          @Aogashimamura       Âƒ–“‡‘º
+  10007   Ogasawara-Shicho    ¬Š}Œ´x’¡
+          @Ogasawaramura       ¬Š}Œ´‘º
+          @Chichijima          •ƒ“‡
+          @Hahajima            •ê“‡
+          @Iwojima             —°‰©“‡
+          @Okinotorishima      ‰«‚Ì’¹“‡
+          @Minamitorishima     “ì’¹“‡
+
+_“Şì  11
+  11001   Aiko                ˆ¤b
+  11002   Ashigarakami        ‘«•¿ã
+  11003   Ashigarashimo       ‘«•¿‰º
+  11004   Koza                ‚À
+* 11005   Tsukui              ’Ã‹vˆä    "Mar.10,2007"
+  11006   Naka                ’†
+  11007   Miura               O‰Y
+
+ç  —t  12
+  12001   Awa                 ˆÀ–[
+  12002   Isumi               ˆÎ‹÷
+* 12003   Ichihara            sŒ´      "Sep.30,1967"
+  12004   Inba                ˆó×
+* 12005   Kaijo               ŠCã      "Jun.30,2005"
+  12006   Katori              æ
+* 12007   Kimitsu             ŒN’Ã      "Mar.31,1991"
+  12008   Sanbu               R•
+* 12009   Sosa                ‘xº      "Mar.26,2006"
+* 12010   Chiba               ç—t      "Dec.31,1966"
+  12011   Chosei              ’·¶
+* 12012   Higashikatsushika   “ŒŠ‹ü    "Mar.27,2005"
+
+é  ‹Ê  13
+  13001   Iruma               “üŠÔ
+  13002   Osato               ‘å—¢
+  13003   Kitaadachi          –k‘«—§
+  13004   Kitakatsushika      –kŠ‹ü
+* 13005   Kitasaitama         –ké‹Ê    "Mar.22,2010"
+  13006   Kodama              ™‹Ê
+  13007   Chichibu            ’•ƒ
+  13008   Hiki                ”äŠé
+  13009   Minamisaitama       “ìé‹Ê
+
+ˆï  é  14
+  14001   Inashiki            ˆî•~
+* 14002   Kashima             ­“‡      "Oct.10,2005"
+  14003   Kitasoma            –k‘Š”n
+  14004   Kuji                ‹vœ
+  14005   Sashima             ‰“‡
+* 14006   Taga                ‘½‰ê      "Oct.31,2004"
+* 14007   Tsukuba             ’}”g      "Mar.26,2006"
+  14008   Naka                “ß‰Ï
+* 14009   Namegata            s•û      "Sep.1,2005"
+* 14010   Niihari             V¡      "Mar.26,2006"
+* 14011   Nishiibaraki        ¼ˆïé    "Mar.18,2006"
+  14012   Higashiibaraki      “Œˆïé
+* 14013   Makabe              ^•Ç      "Sep.30,2005"
+  14014   Yuki                Œ‹é
+
+“È  –Ø  15
+* 15001   Ashikaga            ‘«—˜      "Sep.30,1962"
+* 15002   Aso                 ˆÀ‘h      "Feb.27,2005"
+* 15003   Kamitsuga           ã“s‰ê    "Sep.30,2011"
+  15004   Kawachi             ‰Í“à
+  15005   Shioya              ‰–’J
+  15006   Shimotsuga          ‰º“s‰ê
+  15007   Nasu                “ß{
+  15008   Haga                –F‰ê
+
+ŒQ  ”n  16
+  16001   Agatsuma            ŒáÈ
+* 16002   Usui                ‰O•X      "Mar.17,2006"
+  16003   Ora                 —WŠy
+  16004   Kanra               ŠÃŠy
+  16005   Kitagunma           –kŒQ”n
+* 16006   Gunma               ŒQ”n       "Sep.30,2006"
+  16007   Sawa                ²”g
+* 16008   Seta                ¨‘½       "May.04,2009"
+  16009   Tano                ‘½–ì
+  16010   Tone                —˜ª
+* 16011   Nitta               V“c       "Mar.26,2006"
+* 16012   Yamada              R“c       "Mar.26,2006"
+
+R  —œ  17
+* 17001   Kitakoma            –k‹–€     "Mar.14,2006"
+  17002   Kitatsuru           –k“s—¯
+  17003   Nakakoma            ’†‹–€
+  17004   Nishiyatsushiro     ¼”ª‘ã
+* 17005   Higashiyatsushiro   “Œ”ª‘ã    "Jul.31,2006"
+* 17006   Higashiyamanashi    “ŒR—œ    "Oct.31,2005"
+  17007   Minamikoma          “ì‹–€
+  17008   Minamitsuru         “ì“s—¯
+
+Ã  ‰ª  18
+* 18001   Abe                 ˆÀ”{      "Dec.31,1968"
+* 18002   Inasa               ˆø²      "Jun.30,2005"
+* 18003   Ihara               ˆÁŒ´      "Oct.31,2008"
+* 18004   Iwata               ”Ö“c      "Jun.30,2005"
+* 18005   Ogasa               ¬Š}      "Mar.31,2005"
+  18006   Kamo                ‰ê–Î
+* 18007   Shida               u‘¾      "Dec.31,2008"
+  18008   Shuchi              ü’q
+  18009   Sunto               x“Œ
+  18010   Tagata              “c•û
+  18011   Haibara             YŒ´
+* 18012   Hamana              •l–¼      "Mar.22,2010"
+* 18013   Fuji                •xm      "Mar.22,2010"
+
+Šò  •Œ  19
+  19001   Anpachi             ˆÀ”ª
+* 19002   Inaba               ˆî—t      "Mar.31,1963"
+  19003   Ibi                 —K”ã
+* 19004   Ena                 Œb“ß      "Feb.12,2005"
+  19005   Ono                 ‘å–ì
+* 19006   Kaizu               ŠC’Ã      "Mar.27,2005"
+  19007   Kani                ‰Â™
+  19008   Kamo                ‰Á–Î
+* 19009   Gujo                ŒSã      "Feb.29,2004"
+* 19010   Toki                “yŠò      "Jan.22,2006"
+  19011   Hashima             ‰H“‡
+  19012   Fuwa                •s”j
+* 19013   Mashita             ‰v“c      "Feb.29,2004"
+* 19014   Mugi                •‹V      "Feb.6,2005"
+  19015   Motosu              –{‘ƒ
+* 19016   Yamagata            RŒ§      "Mar.31,2003"
+  19017   Yoro                —{˜V
+* 19018   Yoshiki             ‹gé      "Jan.31,2005"
+
+ˆ¤  ’m  20
+  20001   Aichi               ˆ¤’m
+* 20002   Atsumi              ˆ­”ü      "Sep.30,2005"
+  20003   Ama                 ŠC•”
+  20004   Kitashitara         –kİŠy
+  20005   Chita               ’m‘½
+* 20006   Nakashima           ’†“‡      "Mar.31,2005"
+  20007   Nishikasugai        ¼t“úˆä
+* 20008   Nishikamo           ¼‰Á–Î    "Jan.03,2010"
+  20009   Niwa                ’O‰H
+  20010   Nukata              Šz“c
+* 20011   Haguri              —tŒI      "Mar.31,2005"
+* 20012   Hazu                ”¦“¤      "Mar.31,2011"
+* 20013   Higashikasugai      “Œt“úˆä  "Nov.30,1970"
+* 20014   Higashikamo         “Œ‰Á–Î    "Mar.31,2005"
+* 20015   Hekikai             •ÉŠC      "Nov.30,1970"
+* 20016   Hoi                 •ó”Ñ      "Jan.31,2010"
+* 20017   Minamishitara       “ìİŠy    "Sep.30,2005"
+* 20018   Yana                ”ª–¼      "Sep.29,1956"
+
+O  d  21
+* 21001   Age                 ˆÀŒ|      "Dec.31,2005
+* 21002   Ano                 ˆÀ”Z      "Sep.29,1956"
+* 21003   Ayama               ˆ¢R      "Oct.31,2004"
+* 21004   Iinan               ”Ñ“ì      "Dec.31,2004"
+* 21005   Ichishi             ˆêu      "Dec.31,2005
+  21006   Inabe               ˆõ•Ù
+* 21007   Kawage              ‰ÍŒ|      "Sep.29,1956"
+  21008   Kitamuro            –k–´˜K
+  21009   Kuwana              ŒK–¼
+* 21010   Shima               u–€      "Sep.30,2004"
+* 21011   Suzuka              —é­      "Jan.10,2005"
+  21012   Taki                ‘½‹C
+* 21013   Naga                –¼‰ê      "Oct.31,2004"
+  21014   Mie                 Od
+  21015   Minamimuro          “ì–´˜K
+  21016   Watarai             “x‰ï
+
+‹  “s  22
+* 22001   Amata               “V“c      "Dec.31,2005
+* 22002   Ikaruga             ‰½­      "Sep.29,1956"
+  22003   Otokuni             ‰³ŒP
+* 22004   Kasa                ‰Á²      "Dec.31,2005
+* 22005   Kitakuwada          –kŒK“c    "Dec.31,2005
+  22006   Kuse                ‹v¢
+* 22007   Kumano              ŒF–ì      "Mar.31,2004"
+  22008   Soraku              ‘ŠŠy
+* 22009   Takeno              ’|–ì      "Mar.31,2004"
+  22010   Tsuzuki             ’ÔŠì
+* 22011   Naka                ’†        "Mar.31,2004"
+  22012   Funai               ‘Dˆä
+* 22013   Minamikuwada        “ìŒK“c    "Sep.29,1959"
+  22014   Yosa                —^Ó
+
+   ‰ê  23
+* 23001   Ika                 ˆÉ@    "Dec.31,2009"
+  23002   Inukami             Œ¢ã
+  23003   Echi                ˆ¤’m
+  23004   Gamo                Š—¶
+* 23005   Kanzaki             _è      "Dec.31,2005
+* 23006   Kurita              ŒI‘¾      "Sep.30,2001"
+* 23007   Koka                b‰ê      "Sep.30,2004"
+* 23008   Sakata              â“c      "Sep.30,2005"
+* 23009   Shiga                ‰ê      "Mar.19,2006"
+* 23010   Takashima           ‚“‡      "Dec.31,2004"
+* 23011   Higashiazai         “Œóˆä    "Dec.31,2009"
+* 23012   Yasu                –ìF      "Sep.30,2004"
+
+“Ş  —Ç  24
+  24001   Ikoma               ¶‹î
+  24002   Uda                 ‰F‘É
+* 24003   Uchi                ‰F’q      "Dec.31,1958"
+  24004   Kitakatsuragi       –kŠ‹é
+  24005   Shiki               ˆéé
+* 24006   Soekami             “Yã      "Mar.31,2005"
+  24007   Takaichi            ‚s
+* 24008   Minamikatsuragi     “ìŠ‹é    "Mar.30,1958"
+  24009   Yamabe              R•Ó
+  24010   Yoshino             ‹g–ì
+
+‘å  ã  25
+* 25001   Kitakawachi         –k‰Í“à    "Nov.2,1971"
+  25002   Sennan              ò“ì
+  25003   Senboku             ò–k
+  25004   Toyono              –L”\
+* 25005   Nakakawachi         ’†‰Í“à    "Apr.2,1965"
+  25006   Mishima             O“‡
+  25007   Minamikawachi       “ì‰Í“à
+
+˜a‰ÌR  26
+  26001   Arida               —L“c
+  26002   Ito                 ˆÉ“s
+  26003   Kaiso               ŠC‘
+* 26004   Naga                “ß‰ê      "Mar.31,2006"
+  26005   Nishimuro           ¼–´˜K
+  26006   Higashimuro         “Œ–´˜K
+  26007   Hidaka              “ú‚
+
+•º  ŒÉ  27
+  27001   Ako                 Ô•ä
+* 27002   Asago               ’©—ˆ      "Mar.31,2005"
+* 27003   Arima               —L”n      "May.30,1958"
+* 27004   Izushi              oÎ      "Mar.31,2005"
+  27005   Ibo                 —K•Û
+* 27006   Innami              ˆó“ì      "Jan.31,1979"
+  27007   Kako                ‰ÁŒÃ
+* 27008   Kasai               ‰Á¼      "Mar.31,1967"
+* 27009   Kato                ‰Á“Œ      "Mar.19,2006"
+  27010   Kawabe              ì•Ó
+  27011   Kanzaki             _è
+* 27012   Kinosaki            éè      "Mar.31,2005"
+  27013   Sayo                ²—p
+* 27014   Shikama             ü–      "Mar.26,2006"
+* 27015   Shiso               ³ˆ¾      "Mar.26,2006"
+  27016   Taka                ‘½‰Â
+* 27017   Taki                ‘½‹I      "Mar.31,1999"
+* 27018   Tsuna               ’Ã–¼      "Feb.10,2006"
+* 27019   Hikami              •Xã      "Oct.31,2004"
+  27020   Mikata              ”ü•û
+* 27021   Mino                ”ü”X      "Oct.23,2005"
+* 27022   Mihara              OŒ´      "Jan.10,2005"
+* 27023   Muko                •ŒÉ      "Mar.31,1954"
+* 27024   Yabu                —{•ƒ      "Mar.31,2004"
+
+•x  R  28
+* 28001   Imizu               Ë…      "Oct.31,2005"
+* 28002   Kaminiikawa         ãVì    "Mar.31,2005"
+  28003   Shimoniikawa        ‰ºVì
+  28004   Nakaniikawa         ’†Vì
+* 28005   Nishitonami         ¼“v”g    "Oct.31,2005"
+* 28006   Nei                 •w•‰      "Mar.31,2005"
+* 28007   Himi                •XŒ©      "Mar.31,1954"
+* 28008   Higashitonami       “Œ“v”g    "Oct.31,2004"
+
+•Ÿ  ˆä  29
+* 29001   Asuwa               ‘«‰H      "Jan.30,2006"
+  29002   Imadate             ¡—§
+  29003   Oi                  ‘å”Ñ
+* 29004   Ono                 ‘å–ì      "Nov.6,2005"
+* 29005   Onyu                ‰“•~      "Mar.2,2006"
+* 29006   Sakai               âˆä      "Mar.19,2006"
+* 29007   Tsuruga             “Ö‰ê      "Jan.14,1955"
+  29008   Nanjo               “ìğ
+  29009   Nyu                ’O¶
+  29010   Mikata              O•û
+  29011   Yoshida             ‹g“c
+  29012   Mikatakaminaka      O•ûã’†
+
+Î  ì  30
+* 30001   Ishikawa            Îì      "Nov.10,2011"
+* 30002   Enuma               ]À      "Sep.30,2005"
+  30003   Kashima             ­“‡
+  30004   Kahoku              ‰Í–k
+* 30005   Suzu                ìF      "Feb.28,2005"
+  30006   Nomi                ”\”ü
+  30007   Hakui               ‰Hî
+* 30008   Fugeshi             –PŠ      "Feb.28,2005"
+  30009   Hosu                –Pì
+
+‰ª  R  31
+  31001   Aida                ‰p“c
+* 31002   Akaiwa              Ô”Ö      "Jan.21,2007"
+  31003   Asakuchi            óŒû
+* 31004   Atetsu              ˆ¢“N      "Mar.30,2005"
+* 31005   Oku                 —W‹v      "Oct.31,2004"
+  31006   Oda                 ¬“c
+  31007   Katsuta             Ÿ“c
+* 31008   Kawakami            ìã      "Sep.30,2004"
+* 31009   Kibi                ‹g”õ      "Jul.31,2005"
+  31010   Kume                ‹v•Ä
+* 31011   Kojima              ™“‡      "Mar.21,2005"
+* 31012   Shitsuki            ŒãŒ      "Feb.28,2005"
+* 31013   Joto                ã“¹      "Apr.30,1971"
+* 31014   Jobo                ã–[      "Mar.30,2005"
+  31015   Tsukubo             “sŒE
+  31016   Tomata              “Ï“c
+  31017   Maniwa              ^’ë
+* 31018   Mitsu               Œä’Ã      "Jan.21,2007"
+  31019   Wake                ˜a‹C
+  31020   Kaga                ‰Á‰ê
+
+“‡  ª  32
+* 32001   Ano                 ˆÀ”Z      "Mar.31,1954"
+* 32002   Ama                 ŠCm      "Mar.31,1969"
+  32003   Iishi               ”ÑÎ
+  32004   Ochi                —W’q
+* 32005   Ohara               ‘åŒ´      "Oct.31,2004"
+  32006   Oki                 ‰BŠò
+* 32007   Ochi                ‰B’n      "Mar.31,1969"
+  32008   Kanoashi            ­‘«
+* 32009   Suki                ü‹g      "Mar.31,1969"
+* 32010   Chibu               ’m•v      "Mar.31,1969"
+* 32011   Naka                “ß‰ê      "Sep.30,2005"
+  32012   Nita                m‘½
+* 32013   Nima                “ô–€      "Sep.30,2005"
+* 32014   Nogi                ”\‹`      "Sep.30,2004"
+* 32015   Hikawa              ”ôì      "Sep.30,2011"
+* 32016   Mino                ”ü”Z      "Oct.31,2004"
+* 32017   Yatsuka             ”ª‘©      "Jul.31,2011"
+
+R  Œû  33
+* 33001   Asa                 Œú‹·      "Mar.21,2005"
+  33002   Abu                 ˆ¢•
+  33003   Oshima              ‘å“‡
+* 33004   Otsu                ‘å’Ã      "Mar.21,2005"
+  33005   Kuga                ‹è‰Ï
+  33006   Kumage              ŒF–Ñ
+* 33007   Saba                ²”g      "Sep.30,2005"
+* 33008   Tsuno               “s”Z      "Apr.20,2003"
+* 33009   Toyoura             –L‰Y      "Feb.12,2005"
+* 33010   Mine                ”ü”I      "Mar.20,2008"
+* 33011   Yoshiki             ‹g•~      "Sep.30,2005"
+
+’¹  æ  34
+  34001   Iwami               Šâ”ü
+* 34002   Ketaka              ‹C‚      "Oct.31,2004"
+  34003   Saihaku             ¼”Œ
+  34004   Tohaku              “Œ”Œ
+  34005   Hino                “ú–ì
+  34006   Yazu                ”ª“ª
+
+L  “‡  35
+  35001   Aki                 ˆÀŒ|
+* 35002   Asa                 ˆÀ²      "Mar.19,1973"
+* 35003   Ashina              ˆ°•i      "Feb. 2,2003"
+* 35004   Kamo                ‰ê–Î      "Mar.21,2005"
+* 35005   Konu                b“z      "Mar.30,2005"
+* 35006   Saeki               ²”Œ      "Nov.2,2005"
+  35007   Jinseki             _Î
+  35008   Sera                ¢—…
+* 35009   Takata              ‚“c      "Feb.29,2004"
+  35010   Toyota              –L“c
+* 35011   Numakuma            ÀŒG      "Jan.31,2005"
+* 35012   Hiba                ”ä”k      "Mar.30,2005"
+* 35013   Fukayasu            [ˆÀ      "Feb.28,2006"
+* 35014   Futami              ‘oO      "Mar.31,2004"
+* 35015   Mitsugi             Œä’²      "Mar.27,2005"
+  35016   Yamagata            RŒ§
+
+  ì  36
+  36001   Ayauta              ˆ»‰Ì
+* 36002   Okawa               ‘åì      "Mar.31,2003"
+  36003   Kagawa              ì
+  36004   Kita                –Ø“c
+  36005   Shozu               ¬“¤
+  36006   Nakatado            ’‡‘½“x
+* 36007   Mitoyo              O–L      "Dec.31,2005
+
+“¿  “‡  37
+* 37001   Awa                 ˆ¢”g      "Mar.31,2005"
+  37002   Itano               ”Â–ì
+* 37003   Oe                  –ƒA      "Sep.30,2004"
+  37004   Kaifu               ŠC•”
+  37005   Katsuura            Ÿ‰Y
+  37006   Naka                “ß‰ê
+  37007   Myozai              –¼¼
+  37008   Myodo               –¼“Œ
+  37009   Mima                ”ü”n
+  37010   Miyoshi             OD
+
+ˆ¤  •Q  38
+  38001   Iyo                 ˆÉ—\
+* 38002   Uma                 ‰F–€      "Mar.31,2004"
+  38003   Ochi                ‰z’q
+* 38004   Onsen               ‰·ò      "Dec.31,2004"
+  38005   Kamiukena           ã•‚ŒŠ
+  38006   Kita                Šì‘½
+  38007   Kitauwa             –k‰F˜a
+* 38008   Shuso               üŒK      "Oct.31,2004"
+* 38009   Nii                 V‹      "Mar.31,1959"
+  38010   Nishiuwa            ¼‰F˜a
+* 38011   Higashiuwa          “Œ‰F˜a    "Mar.31,2004"
+  38012   Minamiuwa           “ì‰F˜a
+
+‚  ’m  39
+  39001   Agawa               Œáì
+  39002   Aki                 ˆÀŒ|
+* 39003   Kami                ”ü       "Feb.28,2006"
+  39004   Takaoka             ‚‰ª
+  39005   Tosa                “y²
+  39006   Nagaoka             ’·‰ª
+  39007   Hata                ”¦‘½
+
+•Ÿ  ‰ª  40
+  40001   Asakura             ’©‘q
+* 40002   Itoshima            …“‡   @ "Dec.31,2009"
+* 40003   Ukiha               •‚‰H      "Mar.19,2005"
+  40004   Onga                ‰“‰ê
+  40005   Kasuya              ‘Œ‰®
+  40006   Kaho                ‰Ã•ä
+  40007   Kurate              ˆÆè
+* 40008   Sawara              ‘—Ç      "Feb.28,1975"
+  40009   Tagawa              “cì
+* 40010   Chikushi            ’}‡      "Sep.30,2018"
+  40011   Chikujo             ’zã
+  40012   Mii                 Oˆä
+* 40013   Miike               O’r      "Jan.28,2007"
+  40014   Mizuma              Oàk
+  40015   Miyako              ‹“s
+* 40016   Munakata            @‘œ      "Mar.27,2005"
+* 40017   Yamato              R–å      "Jan.28,2007"
+  40018   Yame                ”ª—
+
+²  ‰ê  41
+* 41001   Ogi                 ¬é      "Feb.28,2005"
+  41002   Kanzaki             _é
+  41003   Kishima             ‹n“‡
+* 41004   Saga                ²‰ê      "Sept.30,2007"
+  41005   Nishimatsuura       ¼¼‰Y
+  41006   Higashimatsuura     “Œ¼‰Y
+  41007   Fujitsu             “¡’Ã
+  41008   Miyaki              O—{Šî
+
+’·  è  42
+* 42001   Iki                 ˆëŠò      "Feb.29,2004" 
+* 42002   Kamiagata           ãŒ§      "Feb.29,2004" 
+* 42003   Kitatakaki          –k‚—ˆ    "Feb.28,2005"
+  42004   Kitamatsuura        –k¼‰Y
+* 42005   Shimoagata          ‰ºŒ§      "Feb.29,2004" 
+  42006   Nishisonogi         ¼”Ş‹n
+  42007   Higashisonogi       “Œ”Ş‹n
+* 42008   Minamitakaki        “ì‚—ˆ    "Mar.30,2006"
+  42009   Minamimatsuura      “ì¼‰Y
+
+ŒF  –{  43
+  43001   Ashikita            ˆ¯–k
+  43002   Aso                 ˆ¢‘h
+  43003   Amakusa             “V‘
+* 43004   Uto                 ‰F“y      "Jan.14,2005"
+  43005   Kamimashiki         ã‰vé
+* 43006   Kamoto              ­–{      "Mar.22,2010"
+  43007   Kikuchi             ‹e’r
+  43008   Kuma                ‹…–
+  43009   Shimomashiki        ‰º‰vé
+  43010   Tamana              ‹Ê–¼
+* 43011   Hotaku              –O‘õ      "Jan.31,1991"
+  43012   Yatsushiro          ”ª‘ã
+
+‘å  •ª  44
+* 44001   Usa                 ‰F²      "Mar.30,2005"
+* 44002   Oita                ‘å•ª      "Sep.30,2005"
+* 44003   Ono                 ‘å–ì      "Mar.30,2005"
+* 44004   Kitaamabe           –kŠC•”    "Dec.31,2004"
+  44005   kusu                ‹èì
+* 44006   Shimoge             ‰º–Ñ      "Feb.28,2005"
+* 44007   Naoiri              ’¼“ü      "Mar.31,2005"
+* 44008   Nishikunisaki       ¼‘“Œ    "Sep.30,2005"
+  44009   Hayami              ‘¬Œ©
+  44010   Higashikunisaki     “Œ‘“Œ
+* 44011   Hita                “ú“c      "Mar.21,2005"
+* 44012   Minamiamabe         “ìŠC•”    "Mar. 2,2005"
+
+‹{  è  45
+  45001   Kitamorokata        –k”Œ§
+  45002   Koyu                ™“’
+  45003   Nishiusuki          ¼‰P‹n
+  45004   Nishimorokata       ¼”Œ§
+  45005   Higashiusuki        “Œ‰P‹n
+  45006   Higashimorokata     “Œ”Œ§
+* 45007   Minaminaka          “ì“ß‰Ï    "Mar.29,2009"
+* 45008   Miyazaki            ‹{è      "Mar.22,2010"
+
+­™“‡  46
+  46001   Aira                ˆ¦—Ç
+* 46002   Isa                 ˆÉ²     "Oct.31,2008"
+  46003   Izumi               o…
+* 46004   Ibusuki             —Kh     "Nov.30,2007"
+  46005   Oshima              ‘å“‡
+  46006   Kagoshima           ­™“‡
+* 46007   Kawanabe            ì•Ó     "Nov.30,2007"
+  46008   Kimotsuki           ŠÌ‘®
+  46009   Kumage              ŒF–Ñ
+  46010   Satsuma             F–€
+  46011   Soo                 ‘]‰—
+* 46012   Hioki               “ú’u     "Nov.6,2005"
+
+‰«  “ê  47
+  47001   Kunigami            ‘“ª
+  47002   Shimajiri           “‡K
+  47003   Nakagami            ’†“ª
+  47004   Miyako              ‹{ŒÃ
+  47005   Yaeyama             ”ªdR

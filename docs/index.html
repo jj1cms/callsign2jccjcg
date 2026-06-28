@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex, nofollow">
+  <title>コールサイン → JCC/JCG 検索</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <h1 class="app__title">コールサイン → JCC / JCG 検索</h1>
+    <p class="app__lead">
+      コールサインを入力すると、総務省「無線局等情報検索」で都道府県を取得し、
+      対応する JCC / JCG / 区コードを表示します。
+    </p>
+
+    <form id="searchForm" class="form" autocomplete="off">
+      <label class="form__label" for="callsign">コールサイン</label>
+      <div class="form__row">
+        <input
+          id="callsign"
+          name="callsign"
+          class="form__input"
+          type="text"
+          inputmode="latin"
+          maxlength="12"
+          placeholder="例: JM8RAF"
+          required
+          aria-describedby="hint">
+        <button id="submitBtn" class="form__btn" type="submit">検索</button>
+      </div>
+      <p id="hint" class="form__hint">英数字とスラッシュ（/）のみ・3〜12文字</p>
+    </form>
+
+    <section id="status" class="status" role="status" aria-live="polite"></section>
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <footer class="app__footer">
+      <p>※ 内部情報は公開しません。検索はコールサイン1件のみを安全な中継経由で照会します。</p>
+    </footer>
+  </main>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

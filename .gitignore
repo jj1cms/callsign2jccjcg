@@ -1,0 +1,11 @@
+# Cloudflare / Node
+worker/node_modules/
+worker/.wrangler/
+npm-debug.log*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Scratch / source exports (not used by the app)
+res.csv

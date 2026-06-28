@@ -1,0 +1,161 @@
+:root {
+  --bg: #0f1720;
+  --panel: #182230;
+  --panel-2: #1f2c3d;
+  --text: #e7edf3;
+  --muted: #9fb0c0;
+  --accent: #2f80ed;
+  --accent-2: #56cc7a;
+  --warn: #f2c94c;
+  --error: #eb5757;
+  --radius: 12px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", "Hiragino Kaku Gothic ProN",
+    "Yu Gothic", Meiryo, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.app {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.app__title {
+  font-size: 1.4rem;
+  margin: 8px 0 4px;
+}
+
+.app__lead {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 0 0 20px;
+}
+
+.form {
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 18px;
+}
+
+.form__label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.form__row {
+  display: flex;
+  gap: 8px;
+}
+
+.form__input {
+  flex: 1;
+  min-width: 0;
+  padding: 12px 14px;
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: var(--panel-2);
+  color: var(--text);
+  border: 1px solid #2c3a4d;
+  border-radius: 10px;
+}
+
+.form__input:focus {
+  outline: 2px solid var(--accent);
+  border-color: var(--accent);
+}
+
+.form__btn {
+  padding: 12px 20px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.form__btn:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+
+.form__hint {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.status {
+  margin: 18px 2px;
+  min-height: 1.4em;
+  font-weight: 600;
+}
+
+.status--error { color: var(--error); }
+.status--warn { color: var(--warn); font-size: 1.15rem; }
+
+.results {
+  display: grid;
+  gap: 14px;
+}
+
+.card {
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  border: 1px solid #243245;
+}
+
+.card__row {
+  display: flex;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #223044;
+}
+
+.card__row:last-child { border-bottom: none; }
+
+.card__label {
+  flex: 0 0 92px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.card__value {
+  flex: 1;
+  word-break: break-word;
+}
+
+.card__row--code .card__value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent-2);
+  letter-spacing: 0.04em;
+}
+
+.card__row--muted .card__value { color: var(--muted); }
+
+.app__footer {
+  margin-top: 28px;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+@media (max-width: 420px) {
+  .form__row { flex-direction: column; }
+  .form__btn { width: 100%; }
+  .card__row { flex-direction: column; gap: 2px; }
+  .card__label { flex-basis: auto; }
+}

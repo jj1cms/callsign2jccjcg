@@ -1,0 +1,9 @@
+name = "callsign-proxy"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+# 許可するオリジン(カンマ区切り)。自分の GitHub Pages の URL に必ず書き換えること。
+# 例: https://<ユーザー名>.github.io
+# ローカル確認用に http://localhost:8000 等を一時的に加えてもよい。
+[vars]
+ALLOWED_ORIGINS = "https://YOUR-NAME.github.io"

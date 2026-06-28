@@ -4,5 +4,5 @@
  * 例: "https://callsign-proxy.<サブドメイン>.workers.dev"
  */
 window.APP_CONFIG = {
-  WORKER_URL: "https://callsign-proxy.YOUR-SUBDOMAIN.workers.dev",
+  WORKER_URL: "https://callsign-proxy.jun-homma.workers.dev",
 };

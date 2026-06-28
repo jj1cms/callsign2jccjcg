@@ -6,4 +6,4 @@ compatibility_date = "2024-11-01"
 # 例: https://<ユーザー名>.github.io
 # ローカル確認用に http://localhost:8000 等を一時的に加えてもよい。
 [vars]
-ALLOWED_ORIGINS = "https://YOUR-NAME.github.io"
+ALLOWED_ORIGINS = "https://jj1cms.github.io"

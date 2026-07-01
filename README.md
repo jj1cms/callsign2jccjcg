@@ -4,6 +4,10 @@ A PC- and mobile-friendly web app. Enter an amateur radio callsign; the app retr
 the **prefecture** from the Japanese MIC (総務省) "Radio Station Information Search"
 and displays the corresponding **JCC / JCG / ward code**.
 
+**🔗 Live demo: https://jj1cms.github.io/callsign2jccjcg/**
+
+> On mobile you can use **"Add to Home Screen"** to install it as an app (with an icon).
+
 ## Architecture (why a proxy is required)
 
 The MIC site **(1) rejects non-browser access with HTTP 403** and **(2) does not send
